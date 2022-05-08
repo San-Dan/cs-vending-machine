@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sandra\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sandra\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_csharp-app.-2007493096.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Sandra\RiderProjects\csharp-app" t="IncludeFlat">
+      <e p="csharp-app.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="VendingMachine" t="IncludeRecursive">
+        <e p="Bank.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="VendingMachine.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Product.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="VendingMachine.cs" t="Include" />
+        <e p="VendingMachine.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
